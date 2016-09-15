@@ -11,6 +11,7 @@ namespace Test3
         static void Main(string[] args)
         {
             Console.WriteLine("test3_1");
+            Console.WriteLine("test3_2");
         }
     }
 }

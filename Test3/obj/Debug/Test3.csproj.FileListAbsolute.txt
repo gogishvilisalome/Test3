@@ -4,3 +4,9 @@ c:\users\s.gogishvili\documents\visual studio 2015\Projects\Test3\Test3\bin\Debu
 c:\users\s.gogishvili\documents\visual studio 2015\Projects\Test3\Test3\obj\Debug\Test3.csprojResolveAssemblyReference.cache
 c:\users\s.gogishvili\documents\visual studio 2015\Projects\Test3\Test3\obj\Debug\Test3.exe
 c:\users\s.gogishvili\documents\visual studio 2015\Projects\Test3\Test3\obj\Debug\Test3.pdb
+C:\Users\s.gogishvili\Documents\GitHub\Test3\Test3\bin\Debug\Test3.exe.config
+C:\Users\s.gogishvili\Documents\GitHub\Test3\Test3\obj\Debug\Test3.exe
+C:\Users\s.gogishvili\Documents\GitHub\Test3\Test3\obj\Debug\Test3.pdb
+C:\Users\s.gogishvili\Documents\GitHub\Test3\Test3\bin\Debug\Test3.exe
+C:\Users\s.gogishvili\Documents\GitHub\Test3\Test3\bin\Debug\Test3.pdb
+C:\Users\s.gogishvili\Documents\GitHub\Test3\Test3\obj\Debug\Test3.csprojResolveAssemblyReference.cache
